@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @EulogiaKoine
-- 👀 I’m interested in web programming with HTML, CSS, and JavaScript or using Node.js, and making bots for messenger
-- 🌱 I’m currently learning about web programming in w3schools.com
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello, everyone! ❤️
+My nick...name is Koine, and I'm a student willing to learn how to simulate, construct, and design my own **virtual-world**!
 
-<!---
-EulogiaKoine/EulogiaKoine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I mainly use javascript based languages for web and the other else. For now, I'm seldom making games with webpage or a Kakaotalk messenger-bot. The latter has no dynamic interactive systems like GUI, sound, and AI. It's very small... and unofficial flatform for development. Despite of it, I really like this environment. I can only be concentrated in algorithm and designing the architecture of my game's complex and optimized system. Likewise for studying.
+
+Would you like to join me? or...... 혹시나 제가 언젠가 이곳을 담임선생님, 프로그래밍 선생님이나 개인적으로 절 가르쳐주신 분께 공유드린다면, 방문해주셔서 감사합니다!
